@@ -9,5 +9,5 @@ surveyData:McAllistervilleCaveData.txt;
 carto:Ryan Maurer;
 dataMan:Ryan Maurer;
 surveyors:Ryan Maurer, Hope Brooks, Katey Bender, Mara Reed, Rick Smith, Lee Heider, Nathan Roser;
-rasters:Lidar&hillshade.jpg,Satellite&satellite.jpg;
+rasters:Lidar&hillshade-01.jpg,Satellite&satellite.jpg;
 		
