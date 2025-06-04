@@ -1,0 +1,13 @@
+cave: McAllisterville Cave;
+datum:A0;
+length:2121;
+depth:160;
+version:3.2;
+date:06022025;
+svg:McAllistervilleCave.svg;
+surveyData:McAllistervilleCaveData.txt;
+carto:Ryan Maurer;
+dataMan:Ryan Maurer;
+surveyors:Ryan Maurer, Hope Brooks, Katey Bender, Mara Reed, Rick Smith, Lee Heider, Nathan Roser;
+rasters:Lidar&hillshade.jpg,Satellite&satellite.jpg;
+		
